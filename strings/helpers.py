@@ -130,9 +130,9 @@ PERINTAH BOT:
 /autoend [enable|disable] - Aktifkan Auto stream end setelah 3 menit jika tidak ada yang mendengarkan.
 
 📈**<u>STATS COMMANDS:</u>**
-/activevoice - Periksa obrolan suara aktif di bot.
-/activevideo - Periksa panggilan video aktif di bot.
-/stats - Periksa Statistik Bot
+/vcs - Periksa obrolan suara aktif di bot.
+/vcv - Periksa panggilan video aktif di bot.
+/gstats - Periksa Statistik Bot
 
 ⚠️**<u>BLACKLIST CHAT FUNCTION:</u>**
 /blacklistchat [CHAT_ID] - Blacklist any chat from using Music Bot
